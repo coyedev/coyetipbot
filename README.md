@@ -28,7 +28,7 @@ Create a new MySQL database instance and run included SQL file [altcointip.sql](
 
 ### Coin Daemons
 
-Download one or more coin daemon executable. Create a configuration file for it in appropriate directory (such as `~/.dogecoin/dogecoin.conf` for Dogecoin), specifying `rpcuser`, `rpcpassword`, `rpcport`, and `server=1`, then start the daemon. It will take some time for the daemon to download the blockchain, after which you should verify that it's accepting commands (such as `dogecoind getinfo` and `dogecoind listaccounts`).
+Download one or more coin daemon executable. Create a configuration file for it in appropriate directory (such as `~/.coinyecoin/coinyecoin.conf` for Coinyecoin), specifying `rpcuser`, `rpcpassword`, `rpcport`, and `server=1`, then start the daemon. It will take some time for the daemon to download the blockchain, after which you should verify that it's accepting commands (such as `coinyecoin getinfo` and `coinyecoin listaccounts`).
 
 ### Reddit Account
 
