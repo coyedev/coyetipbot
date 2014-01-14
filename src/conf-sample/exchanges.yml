@@ -29,7 +29,7 @@ btce:
     uppercase: false
 
 bitstamp:
-    enabled: true
+    enabled: false
     domain: 'www.bitstamp.net'
     https: true
     urlpaths: ['/api/ticker/']
@@ -59,7 +59,7 @@ campbx:
     uppercase: false
 
 cryptsy:
-    enabled: true
+    enabled: false
     domain: 'pubapi.cryptsy.com'
     https: false
     urlpaths: ['/api.php?method=marketdatav2']
