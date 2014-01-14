@@ -1,14 +1,10 @@
-# It's dogetipbot!
+# It's coyetipbot!
 
 ## Introduction
 
-dogetipbot is a fork of vindimy's ALTcointip bot, found at __https://github.com/vindimy/altcointip__
+coyetipbot is a fork of mohland's dogetipbot which can be found at __https://github.com/mohland/dogetipbot__
 
-This is the version that's currently running on reddit at __http://www.reddit.com/r/dogetipbot/wiki/index__ 
-
-v2 is being developed, but this is stable (for now). only minor patches will be added on to this repo as bugs are squashed.
-
-note that this bot only accepts dogecoins.
+This version is still made up for DOGE.  Working on getting things done ...
 
 The instructions below are from ALTcointip, but the instructions are the same. Cheers!
 
